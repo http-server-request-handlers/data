@@ -1,0 +1,20 @@
+{
+  "name": "http-server-request-handler-data",
+  "version": "0.0.0",
+  "description": "an http.Server request handler that handles the data event",
+  "author": "dan entous",
+  "license": "MIT",
+  "main": "src",
+  "keywords": [
+    "http.Server request handler",
+    "http.Server request handler data"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/http-server-request-handlers/data.git"
+  },
+  "bugs": {
+    "url": "https://github.com/http-server-request-handlers/data/issues"
+  },
+  "homepage": "https://github.com/http-server-request-handlers/data#readme"
+}
